@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-06-11T19:11:52.368Z">
+<shop>
+<name>Avalon</name>
+<company>Avalon</company>
+<url>https://avalon-dnr.ru/</url>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Товары</category>
+</categories>
+<offers>
+<offer id="1" available="true">
+<name>24&quot; Телевизор PolarLine 24PL51TC-SM черный 1366x768, HD, 60 Гц, Wi-Fi, Smart TV, Andr...</name>
+<price>9948</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/44251/7273579_0_1780516991.jpg</picture>
+<url>https://avalon-dnr.ru/televizor-polarline-24pl51tc-sm-chernyy/</url>
+<description>24&quot; Телевизор PolarLine 24PL51TC-SM черный 1366x768, HD, 60 Гц, Wi-Fi, Smart TV, Andr...</description>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
