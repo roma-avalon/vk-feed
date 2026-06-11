@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-06-11T20:23:11.416Z">
+<shop>
+<name>Avalon</name>
+<company>Avalon</company>
+<url>https://avalon-dnr.ru/</url>
+<currencies><currency id="RUR" rate="1"/></currencies>
+<categories><category id="1">Товары</category></categories>
+<offers>
+<offer id="av790" available="true">
+<name>43&quot; Телевизор JVC LT-43M790 черный 3840x2160, 4K Ultra HD, 60 Гц, Wi-Fi, Smart TV, An</name>
+<price>25450</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/44251/7332283_0_1780516996.jpg</picture>
+<url>https://avalon-dnr.ru/televizor-jvc-lt-43m790</url>
+<description>43&quot; Телевизор JVC LT-43M790 черный 3840x2160, 4K Ultra HD, 60 Гц, Wi-Fi, Smart TV, An. Товар Avalon.</description>
+<vendor>Avalon</vendor>
+</offer>
+</offers></shop></yml_catalog>
