@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-06-11T21:00:55.462Z">
+<shop>
+<name>Avalon</name>
+<company>Avalon</company>
+<url>https://avalon-dnr.ru/</url>
+<currencies><currency id="RUR" rate="1"/></currencies>
+<categories><category id="1">Товары</category></categories>
+<offers>
+<offer id="av_panel-lg-55vsh7j-h-chernyy" available="true">
+<name>Панель LG 55VSH7J-H черный</name>
+<price>297664</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/44251/7357177_0_1780516997.webp</picture>
+<url>https://avalon-dnr.ru/panel-lg-55vsh7j-h-chernyy</url>
+<description>Панель LG 55VSH7J-H черный. Оригинальный товар Avalon.</description>
+<vendor>Avalon</vendor>
+</offer>
+</offers></shop></yml_catalog>
