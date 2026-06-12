@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-06-12T06:32:08.841Z">
+<shop>
+<name>Avalon</name>
+<company>Avalon</company>
+<url>https://avalon-dnr.ru/</url>
+<currencies><currency id="RUR" rate="1"/></currencies>
+<categories><category id="1">Товары</category></categories>
+<offers>
+<offer id="av250" available="true">
+<name>Монитор Samsung Odyssey G5 C34G55TWWI (LC34G55TWWIXCI) черный</name>
+<price>28077</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/32335/8798042_0_1738445186.png</picture>
+<url>https://avalon-dnr.ru/monitor-samsung-odyssey-g5-c34g55twwi-lc34g55twwixci-chernyy-34-va-led-1ms-21-9-hdmi-matovaya-250cd-178gr-178gr-3440x1440-165hz-dp-uw-5.6kg</url>
+<description>• ХарактеристикиОсновныеПроизводитель SamsungКод производителя LC34G55TWWIXCIДиагональ 34&quot;МатрицаТип матрицы VALED подсветка даШирокоформатный монитор даUltraWide монитор даИзогнутый экран да, R1000Разрешение экрана 3440x1440 (21:9)Поверхность экрана матоваяЯркость 250 кд/м2Контрастность 2500:1Время отклика 1 мс, MPRT (motion picture response time)Угол обзора по горизонтали 178°Угол обзора по вертикали 178°Максимальное количество цветов 16.7 млн.ОсобенностиПоддержка HDR даВерсия HDR HDR400 (HDR10)Сенсорный (TouchScreen) нетЧастота обновления кадров 165 ГцПеременная частота обновления AMD FreeSyncBlue Light Filter/Shield даТехнология Flicker-free даВстроенные динамики нетКорпусПоворот на 90 градусов нетРегулировка по высоте нетКрепление на стену (VESA) 75 х 75 мм
+• Интерфейсы
+• Разъёмы HDMI, DisplayPort, выход на наушникиUSB-хаб нетПитаниеБлок питания внешнийПотребляемая мощность при работе 38 Вт, типичнаяПотребляемая мощность в режиме ожидания 0.5 ВтПотребляемая мощность в спящем режиме 0.3 Вт
+• Дополнительно
+• Функциональность Black Equalizer (оптимизация уровня чёрного), режим Low Input Lag, технология Off Timer Plus, интерфейс Super Arena GamingЦвет серыйДополнительная информация поворот: ±15°, углы наклона: -2° +18°Размеры (ШхВхГ) 807 x 475 x 273 ммВес 5.6 кг
+• Основные параметры ((Мониторы))
+• Диагональ дисплея (Мониторы):
+• 34&quot;
+• Покрытие экрана (Мониторы):
+• Матовое
+• Технические характеристики экрана ((Мониторы))
+• Разрешение дисплея (Мониторы):
+• 3440×1440
+• Тип матрицы (Мониторы):
+• Частота (Мониторы)
+• 165Гц
+• Дополнительно
+• ((Мониторы))
+• Соотношение сторон (Мониторы):
+• 21:9</description>
+<vendor>Avalon</vendor>
+</offer>
+<offer id="av_jv6b8n" available="true">
+<name>Товар Avalon</name>
+<price>1</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<url></url>
+<description>Товар Avalon. Оригинальный товар Avalon.</description>
+<vendor>Avalon</vendor>
+</offer>
+</offers></shop></yml_catalog>
