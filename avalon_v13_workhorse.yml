@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-06-12T08:34:34.839Z">
+<shop><name>Avalon</name><offers>
+<offer id="av_25280_na_войти">
+<name>24&quot; Телевизор ASANO 24LF1210T черный 1920x1080, Full HD, 60 Гц</name>
+<price>8406</price>
+<oldprice>10087.199999999999</oldprice>
+<url>https://avalon-dnr.ru/televizor-asano-24lf1210t/</url>
+<stock>1</stock>
+<description>Общие параметры и питание Тип телевизор LED Модель Asano 24LF1210T Цвет рамки черный Питание 100-240В ～ 50/60Гц Цвет подставки черный Экран Особенности экрана нет Диагональ экрана (дюйм) 24&quot; Диагональ экрана 60 см Разрешение экрана FullHD, 1920x1080 Формат экрана 16:9 Стандарты HDTV Full HD 1080p Поддержка HDR нет Параметры матрицы Частота обновления экрана 60 Гц Яркость 200 Кд/м² Контрастность 5000 Угол обзора 178° / 178° Smart TV Операционная система нет Поддержка Smart TV нет Прием сигнала Цифровые тюнеры DVB-T2, DVB-C Телетекст есть Звук Мощность звука 6 Вт Технология звука Dolby Digital Сабвуфер нет Объемное звучание нет Мультимедиа Основные видео файлы и кодеки MKV, AVI, MPG, MP4, MOV, VOB, DAT Форматы аудиофайлов MP3, AC3, AAC Основные графические файлы BMP, PNG, JPG Разъемы и коммутация Количество HDMI портов 1 Версия HDMI HDMI 1.4 Другие аудио/видеовходы SCART, композитный AV, V | SKU: av_25280</description>
+<param name="size">Войти</param>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/44251/7383257_0_1780517000.jpg</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/44251/7383257_1_1780517000.jpg</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/44251/7383257_2_1780517000.jpg</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/44251/7383257_3_1780517000.jpg</picture>
+</offer>
+</offers></shop></yml_catalog>
