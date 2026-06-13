@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-06-13 12:20:52">
+<shop>
+<name>Avalon</name>
+<company>Avalon</company>
+<url>https://avalon-dnr.ru/</url>
+<currencies>
+<currency id="RUB" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Смартфоны</category>
+<category id="99">Прочее</category>
+</categories>
+<offers>
+<offer id="av_24481">
+<name>Смартфон Xiaomi Poco X7 Pro 12/256Gb зеленый</name>
+<vendor>Xiaomi</vendor>
+<typePrefix>Смартфон</typePrefix>
+<price>47311</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<url>https://avalon-dnr.ru/smartfon-xiaomi-poco-x7-pro-12-256gb-zelenyy/</url>
+<description><![CDATA[
+                                                        
+    ХарактеристикиОсновныеПроизводительXiaomiТипсмартфонТип корпусаклассическийМодельXiaomi Poco X7 ProОперационная системаAndroid 14Оболочка ОСHyperOS 2Спутниковая навигацияСистемы навигацииGPS, ГЛОНАСС, Galileo, QZSS, A-GPSДатчики и безопасностьДатчикиакселерометр, гироскоп, компас, приближенияСканер отпечатка пальцадаМобильная связьСтандарт связи2G, 3G, 4G (LTE), 5GТип SIM-картыnano SIMКоличество физических SIM-карт2ПитаниеТип аккумуляторакремний-углеродный (Si-C)Ёмкость аккумулятора6000 мАчФункции зарядкибыстрая зарядкаМощность зарядкидо 90 ВтКамераКоличество основных (тыловых) камер3Разрешение основной камеры50 Мп, 8 МпТип объективаосновной (широкоугольный), сверхширокоугольныйМакс. разрешение видео основной камеры4K (2160p) с частотой 60 кадров/сФункции основной камерыоптическая стабилизация (OIS)Разрешение фронтальной камеры20 МпМакс. разрешение видео фронтальной камерыFHD (1080p) с частотой 30 кадров/сИнтерфейсыИнтерфейсы и разъёмыWi-Fi, Bluetooth, NFC, USB Type-CСтандарт Wi-FiWi-Fi 6 (802.11ax)Стандарт Bluetooth5.4ПамятьОбъём оперативной памяти12 ГбОбъём встроенной памяти256 ГбСлот для карты памятинетПроцессорМодельMediaTek Dimensity 8400 UltraКоличество ядер8Максимальная тактовая частота3250 МГцВидеопроцессорMali-G720 MC7ЭкранДиагональ6.67"Разрешение1220x2712Тип экранаAMOLEDЧастота обновления120 ГцСоотношение сторон20:9Число пикселей на дюйм (PPI)446ДополнительноМатериал корпусапластикЦветзеленыйРазмеры160.8x75.2x8.3 ммВес0.195 кг
+
+                            
+                ]]></description>
+<picture>https://mc.yandex.ru/watch/98902169</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/42000/9292646_0_1769583924.webp</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/42000/9292646_1_1769583924.webp</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/42000/9292646_2_1769583924.webp</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/50/50/detailed/42000/9292646_0_1769583924.webp</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/50/50/detailed/42000/9292646_1_1769583924.webp</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/50/50/detailed/42000/9292646_2_1769583924.webp</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/23165/8863401_0_1711141169.png</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/22904/8872061_0_1710492945.jpg</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/22915/8907977_0_1710494045.jpg</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/29617/9181144_0_1725228042.jpg</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/26227/9002111_0_1717195043.jpg</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/29611/9142644_0_1725227575.png</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/34420/8907973_0_1746219198.jpg</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/29615/9167859_0_1725227868.png</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/29608/9034663_0_1725227277.jpg</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/30786/9167856_0_1729542570.png</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/31473/9240291_0_1734036799.webp</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/29608/9071202_0_1725227340.png</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/22894/8763404_0_1710491956.jpg</picture>
+<picture>https://mc.yandex.ru/watch/</picture>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
