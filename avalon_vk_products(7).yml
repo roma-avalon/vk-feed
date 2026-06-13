@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-06-13T11:22:12.609Z">
+<shop>
+<name>Avalon</name>
+<categories>
+<category id="1">Смартфоны и гаджеты</category>
+<category id="2">Телевизоры и видеотехника</category>
+<category id="3">Ноутбуки и компьютеры</category>
+<category id="99">Прочее</category>
+</categories>
+<offers>
+<offer id="548521">
+<name>Смартфон Xiaomi Redmi 13 8/256Gb Ocean Blue РСТ</name>
+<price>21358</price>
+<oldprice>25629.6</oldprice>
+<url>https://avalon-dnr.ru/smartfon-xiaomi-redmi-13-8-256gb-ocean-blue-rst/</url>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<stock>1</stock>
+<description>• Общие параметры
+• Тип
+• смартфон
+• Модель
+• Xiaomi Redmi 13
+• Год релиза
+• 2024
+• Внешний вид
+• Цвет задней панели
+• голубой
+• Цвет граней
+• голубой
+• Цвет, заявленный производителем
+• Ocean Blue
+• Мобильная связь
+• Диапазоны частот 2G
+• GSM 850 (B5), GSM 900 (B8), GSM 1800 (B3), GSM 1900 (B2)
+• Диапазоны частот 3G
+• UMTS 850 (B5), UMTS 900 (B8), UMTS 2100 (B1)
+• Поддержка сетей 4G (LTE)
+• есть
+• Диапазоны частот 4G (LTE)
+• FDD-LTE 700 (B28), FDD-LTE 800 (B20), FDD-LTE 850 (B5), FDD-LTE 900 (B8), FDD-LTE 1500 (B32), FDD-LTE 1700 (B4), FDD-LTE 1800 (B3), FDD-LTE 1900 (B2), FDD-LTE 2100 (B1), FDD-LTE 2600 (B7), TDD-LTE 2300 (B40), TDD-LTE 2500 (B41), TDD-LTE 2600 (B38)
+• Поддержка сетей 5G
+• нет
+• Формат SIM-карт
+• Nano-SIM
+• Количество физических SIM-карт
+• Количество eSIM
+• нет
+• Режим работы нескольких SIM-карт
+• режим ожидания
+• Экран
+• Диагональ экрана (дюйм)
+• 6.79&quot;
+• Разрешение экрана
+• 2400x1080
+• Технология изготовления матрицы
+• IPS
+• Тип матрицы (подробно)
+• IPS
+• Частота обновления экрана
+• 90 Гц
+• Плотность пикселей
+• 388 ppi
+• Соотношение сторон
+• 20:9
+• Конструктивные особенности экрана
+• безрамочный
+• Конструкция и защита
+• Тип корпуса
+• классический
+• Материал корпуса
+• пластик, стекло
+• Степень защиты IP
+• IP53
+• Тип выреза на экране
+• круглый/овальный
+• Операционная система и процессор
+• Операционная система
+• Android
+• Версия ОС
+• Android 14
+• Оболочка ОС
+• HyperOS
+• Поддержка Google Mobile Services
+• есть
+• Модель процессора
+• MediaTek Helio G91 Ultra
+• Количество ядер
+• Максимальная частота процессора
+• 2.2 ГГц
+• Конфигурация процессора
+• 2x Cortex-A75 2.2 ГГц, 6x Cortex-A56 1.8 ГГц
+• Техпроцесс
+• 12 нм
+• Графический ускоритель
+• Mali-G52 MP2
+• Память
+• Объем оперативной памяти
+• 8 ГБ
+• Тип встроенной памяти
+• eMMC 5.1
+• Объем встроенной памяти
+• 256 ГБ
+• Слот для карты памяти
+• есть (универсальный слот SIM + SIM / SIM + карта памяти)
+• Основная (тыловая) камера
+• Количество основных (тыловых) камер
+• Количество мегапикселей основной камеры
+• 108+2 Мп
+• Тип модулей камеры
+• макрокамера, основная камера
+• Апертура основной камеры
+• 1.7
+• Автофокусировка основной камеры
+• есть
+• Тип вспышки
+• кольцевая светодиодная
+• Оптическая стабилизация
+• нет
+• Фронтальная камера
+• Двойная фронтальная камера
+• нет
+• Количество мегапикселей фронтальной камеры
+• 13 Мп
+• Апертура фронтальной камеры
+• 2.4
+• Аудио
+• FM радио
+• да
+• Коммуникации
+• Wi-Fi: 2.4GHz | 5GHz
+• Версия Bluetooth
+• 5.0
+• NFC
+• есть
+• Системы навигации
+• A-GPS, BeiDou, GPS, Galileo, ГЛОНАСС
+• ИК-порт
+• есть
+• Разъемы и датчики
+• Интерфейс для зарядки
+• USB Type-C
+• Разъем для наушников
+• mini-jack 3.5 мм
+• Поддержка OTG
+• есть
+• Питание
+• Емкость аккумулятора
+• 5030 мА*ч
+• Напряжение питания ЗУ
+• 100-240 В/50-60 Гц
+• Выходная мощность ЗУ
+• 33 Вт
+• Быстрая зарядка
+• есть
+• Поддержка беспроводной зарядки
+• нет
+• Поддержка беспроводной реверсивной зарядки
+• нет
+• Дополнительная информация
+• Биометрическая защита
+• распознавание лица, сканер отпечатков пальцев (сбоку корпуса)
+</description>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/29613/9155501_0_1725227717.webp</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/29613/9155501_1_1725227717.webp</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/29613/9155501_2_1725227717.webp</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/29613/9155501_3_1725227717.webp</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/29613/9155501_4_1725227717.webp</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/29613/9155501_5_1725227717.webp</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/29613/9155501_6_1725227717.webp</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/29613/9155501_7_1725227717.webp</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/29613/9155501_8_1725227717.webp</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/29613/9155501_9_1725227717.webp</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/29613/9155501_10_1725227717.webp</picture>
+</offer>
+</offers></shop></yml_catalog>
