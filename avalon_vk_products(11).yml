@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-06-13 12:09:33">
+<shop>
+<name>Avalon</name>
+<company>Avalon</company>
+<url>https://avalon-dnr.ru/</url>
+<currencies>
+<currency id="RUB" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Смартфоны</category>
+<category id="99">Прочее</category>
+</categories>
+<offers>
+<offer id="av_21491" available="true">
+<name>Смартфон Redmi Note 14S 8/128GB Ocean Blue РСТ</name>
+<vendor>Xiaomi</vendor>
+<typePrefix>Смартфон</typePrefix>
+<price>27554</price>
+<oldprice>33064.799999999996</oldprice>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<url>https://avalon-dnr.ru/smartfon-redmi-note-14s-mzb0k86ru-8-128gb-ocean-blue-rst/</url>
+<picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/35401/9350309_0_1750192028.jpg</picture>
+<description><![CDATA[Категория: Смартфон
+
+]]></description>
+<param name="Производитель">Xiaomi</param>
+<param name="Тип">Смартфон</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
