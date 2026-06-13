@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-06-13 11:38:03">
+<shop>
+<name>Avalon</name>
+<company>Avalon</company>
+<url>https://avalon-dnr.ru</url>
+<currencies>
+<currency id="RUB" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Электроника</category>
+<category id="2">Смартфоны и гаджеты</category>
+<category id="3">Телевизоры и видеотехника</category>
+<category id="4">Ноутбуки и компьютеры</category>
+<category id="99">Прочее</category>
+</categories>
+<offers>
+<offer id="600752" available="true" group_id="600752">
+<price>40940</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<categoryId>2</categoryId>
+<name>Смартфон Xiaomi Redmi Note 14 Pro+ 5G 8/256Gb Midnight Black РСТ</name>
+<description>Характеристики. Основные. Производитель. Xiaomi. Код производителя. MZB0I9HRU. Тип. смартфон. Тип корпуса. классический. Модель. Xiaomi Redmi Note 14 Pro+ 5G. Операционная система. Android 14, HyperOS. Датчики и безопасность. Датчики. акселерометр, гироскоп, компас, освещенности, приближения. Сканер отпечатка пальца. да. Разблокировка по лицу. да. Мобильная связь. Стандарт связи. 2G, 3G, 4G (LTE), 5G. Тип SIM-карты. eSIM, nano SIM. Количество SIM-карт. Камера. Количество основных (тыловых) камер</description>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/35398/9272118_0_1750191800.jpg</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/35398/9272118_1_1750191800.jpg</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/35398/9272118_2_1750191800.jpg</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/35398/9272118_3_1750191800.jpg</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/35398/9272118_4_1750191800.jpg</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/35398/9272118_5_1750191800.jpg</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/35398/9272118_6_1750191800.jpg</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/35398/9272118_7_1750191800.jpg</picture>
+<picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/35398/9272118_8_1750191800.jpg</picture>
+</offer>
+</offers></shop></yml_catalog>
