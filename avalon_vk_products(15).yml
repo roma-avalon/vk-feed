@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-06-14 07:23">
+<shop>
+  <name>Avalon</name>
+  <company>Avalon</company>
+  <url>https://avalon-dnr.ru/</url>
+  <currencies>
+    <currency id="RUB" rate="1"/>
+  </currencies>
+  <categories>
+    <category id="cat____">ТВ, фото, аудио, видео</category>
+    <category id="cat_tv_" parentId="cat____">TV, видеотехника</category>
+    <category id="cat_" parentId="cat_tv_">Телевизоры</category>
+  </categories>
+  <offers>
+    <offer id="326702" available="true">
+      <name>24&quot; Телевизор PolarLine 24PL51TC-SM черный 1366x768, HD, 60 Гц, Wi-Fi, Smart TV, Andr...</name>
+      <price>9948.00</price>
+      <oldprice>11937.60</oldprice>
+      <url>https://avalon-dnr.ru/televizor-polarline-24pl51tc-sm-chernyy/</url>
+      <currencyId>RUB</currencyId>
+      <categoryId>cat____</categoryId>
+      <categoryId>cat_tv_</categoryId>
+      <categoryId>cat_</categoryId>
+      <stock_quantity>1</stock_quantity>
+      <description>• Общие параметры и питание
+• Тип телевизор LED
+• Питание 110-240В ～ 50/60Гц
+• Цвет рамки черный
+• Цвет подставки серый
+• Дата начала производства 2020
+• Экран
+• Тип подсветки экрана Direct LED
+• Особенности экрана нет
+• Диагональ экрана (дюйм) 24&quot;
+• Диагональ экрана 61 см
+• Разрешение экрана HD, 1366x768
+• Формат экрана 16:9
+• Стандарты HDTV HD 720p
+• Поддержка HDR есть
+• Параметры матрицы
+• Частота обновления экрана 60 Гц
+• Угол обзора 178° / 178°
+• Smart TV
+• Операционная система Android (AOSP)
+• Поддержка Smart TV есть
+• Wi-Fi встроенный
+• Прием сигнала
+• Цифровые тюнеры DVB-C , DVB-T2 , DVB-T
+• Телетекст есть
+• Звук
+• Мощность звука 6 Вт
+• Сабвуфер нет
+• Объемное звучание есть
+• Мультимедиа
+• Воспроизведение с внешних носителей есть
+• Поддерживаемые носители USB
+• Основные видео файлы и кодеки HEVC, H.263, TS, DAT, H.264, MPEG1, VOB, MOV, MP4, MPEG2, MPG, AVI, MKV, Xvid, MPEG4
+• Форматы аудиофайлов WAV, LPCM, M4A, AAC, AC3, MP3
+• Основные графические файлы PNG, BMP, JPEG
+• Разъемы и коммутация
+• Количество HDMI портов 1
+• Другие аудио/видео входы композитный mini AV, компонентный mini YPbPr, VGA (D-Sub), антенный вход, PC аудио (jack 3.5), SCART
+• Выход на наушники есть
+• Другие аудио/видео выходы аудио S/PDIF (коаксиальный)
+• Количество USB 2
+• Слот для CI/PCMCIA есть
+• Устройство для чтения карт памяти нет
+• Bluetooth нет
+• Порт Ethernet есть
+• Другие порты и интерфейсы нет
+• Функции
+• Картинка в картинке нет
+• HDMI ARC есть
+• Функция TimeShift есть
+• Запись видео есть
+• Управление со смартфона нет
+• Крепление
+• Возможность настенного крепления есть
+• Размер VESA 100 x 100
+• Расположение подставки по центру
+• Дополнительная информация
+• Максимальная потребляемая мощность 25 Вт
+• Комплектация документация, пульт ДУ, настольная подставка
+• Особенности, дополнительно увеличение (Zoom) , список любимых каналов, родительский контроль , субтитры, телегид, часы, таймер сна, 3D цифровой фильтр , OS Android 4.4, ROM 4GB, технология DGview, RAM 512MB, тв-замок, редактор программ, режим монитора, USB 2.0х2, 2-х ядерный процессор, обновление встроенного ПО через USB
+• Габариты и вес
+• Ширина без подставки 550 мм
+• Высота без подставки 335 мм
+• Толщина без подставки 70 мм
+• Вес без подставки 2.7 кг
+• Ширина с подставкой 550 мм
+• Высота с подставкой 370 мм
+• Толщина с подставкой 170 мм
+• Вес с подставкой 2.7 кг</description>
+      <picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/44251/7273579_0_1780516991.jpg</picture>
+      <picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/44251/7273579_1_1780516991.jpg</picture>
+      <picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/44251/7273579_2_1780516991.jpg</picture>
+    </offer>
+  </offers>
+</shop>
+</yml_catalog>
