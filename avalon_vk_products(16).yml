@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-06-14 07:31">
+<shop>
+  <name>Avalon</name>
+  <company>Avalon</company>
+  <url>https://avalon-dnr.ru/</url>
+  <currencies>
+    <currency id="RUB" rate="1"/>
+  </currencies>
+  <categories>
+    <category id="h17480">ТВ, фото, аудио, видео</category>
+    <category id="174" parentId="h17480">TV, видеотехника</category>
+    <category id="176" parentId="174">Телевизоры</category>
+  </categories>
+  <offers>
+    <offer id="316062_na_звук" available="true">
+      <name>32&quot; Телевизор PolarLine 32PL12TC черный 1366x768, HD, 60 Гц</name>
+      <price>9516.00</price>
+      <oldprice>11419.20</oldprice>
+      <url>https://avalon-dnr.ru/televizor-polarline-32pl12tc/</url>
+      <currencyId>RUB</currencyId>
+      <categoryId>h17480</categoryId>
+      <categoryId>174</categoryId>
+      <categoryId>176</categoryId>
+      <stock_quantity>1</stock_quantity>
+      <param name="Размер">Звук</param>
+      <picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/44251/7182305_0_1780516977.jpg</picture>
+      <picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/44251/7182305_1_1780516977.jpg</picture>
+    </offer>
+  </offers>
+</shop>
+</yml_catalog>
