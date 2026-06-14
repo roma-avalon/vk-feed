@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-06-14 07:39">
+<shop>
+  <name>Avalon</name>
+  <company>Avalon</company>
+  <url>https://avalon-dnr.ru/</url>
+  <currencies>
+    <currency id="RUB" rate="1"/>
+  </currencies>
+  <categories>
+    <category id="102">ТВ, фото, аудио, видео</category>
+    <category id="174" parentId="102">TV, видеотехника</category>
+    <category id="176" parentId="174">Телевизоры</category>
+  </categories>
+  <offers>
+    <offer id="378042" available="true">
+      <name>24&quot; Телевизор ASANO 24LH1110T черный 1366x768, HD READY, 60 Гц</name>
+      <url>https://avalon-dnr.ru/televizor-asano-24lh1110t/</url>
+      <price>7740.00</price>
+      <oldprice>9288.00</oldprice>
+      <currencyId>RUB</currencyId>
+      <categoryId>102</categoryId>
+      <categoryId>174</categoryId>
+      <categoryId>176</categoryId>
+      <picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/44251/7247284_0_1780516981.jpg</picture>
+      <picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/44251/7247284_1_1780516981.jpg</picture>
+      <picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/44251/7247284_2_1780516981.jpg</picture>
+      <picture>https://avalon-dnr.ru/images/thumbnails/550/450/detailed/44251/7247284_3_1780516981.jpg</picture>
+      <picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/23165/8863401_0_1711141169.png</picture>
+      <picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/22904/8872061_0_1710492945.jpg</picture>
+      <picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/22915/8907977_0_1710494045.jpg</picture>
+      <picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/29617/9181144_0_1725228042.jpg</picture>
+      <picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/26227/9002111_0_1717195043.jpg</picture>
+      <picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/29611/9142644_0_1725227575.png</picture>
+      <picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/34420/8907973_0_1746219198.jpg</picture>
+      <picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/29615/9167859_0_1725227868.png</picture>
+      <picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/29608/9034663_0_1725227277.jpg</picture>
+      <picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/30786/9167856_0_1729542570.png</picture>
+      <picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/31473/9240291_0_1734036799.webp</picture>
+      <picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/29608/9071202_0_1725227340.png</picture>
+      <picture>https://avalon-dnr.ru/images/thumbnails/270/270/detailed/22894/8763404_0_1710491956.jpg</picture>
+      <description>• Тип ЖК-телевизор
+• Диагональ 23.6&quot;
+• Формат экрана 16:9
+• Разрешение 1366x768
+• Стереозвук да
+• Светодиодная (LED) подсветка да, Direct LED
+• Поддержка HDTV да, 720p HD
+• Частота обновления 60 Гц
+• Изображение
+• Яркость 200 кд/м2
+• Контрастность 1000 :1
+• Угол обзора 178°
+• Прогрессивная развертка да
+• Прием сигнала
+• Телетекст да
+• Поддержка DVB-T да, MPEG4
+• Поддержка DVB-C да, MPEG4
+• Поддержка DVB-T2 да
+• Звук
+• Мощность звука 6 Вт
+• Акустическая система да, два динамика
+• Объемное звучание да
+• Мультимедиа
+• Поддерживаемые форматы MP3, MKV, JPEG
+• Интерфейсы
+• Входы AV, HDMI, USB, компонентный
+• Выходы коаксиальный
+• Разъем для наушников да
+• Слот для CI да, один слот, поддержка CI+
+• Разъемы на передней/боковой панели HDMI, AV, USB
+• Функции
+• Таймер сна да
+• Защита от детей да
+• Запись видео на USB-накопитель
+• Функция TimeShift да
+• Дополнительно
+• Возможность крепления на стену да
+• Подходит для использования в гостиницах да
+• Цвет чёрный
+• Дополнительная информация разъем SCART
+• Размеры без подставки (ШxВxГ) 551x335x68 мм
+• Вес без подставки 2.4 кг
+• Размеры (ШхВхГ) 551 x 367 x 177 мм
+• Вес 2.55 кг</description>
+    </offer>
+  </offers>
+</shop>
+</yml_catalog>
